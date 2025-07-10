@@ -19,5 +19,4 @@ This dataset addresses the real-world challenge of **green-on-green weed detecti
 
 You can download the dataset via the following link:
 
-🔗 [Download Dataset (Google Drive)]([xxxxx](https://drive.google.com/file/d/17_bAl65aKigDmSJA_E5JAuc2jTf4OA-B/view?usp=share_link))
-
+🔗 [Download Dataset (Google Drive)](https://drive.google.com/file/d/17_bAl65aKigDmSJA_E5JAuc2jTf4OA-B/view?usp=share_link)
